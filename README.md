@@ -1,11 +1,12 @@
 
 <h2 align="center"> <a href="https://arxiv.org/abs/2402.13587">A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation</a></h2>
 
-<p align="center"> 
+<h5 align="center"> 
   <a href="https://github.com/HITsz-TMG/Multimodal-In-Context-Tuning"> <img src="https://img.shields.io/badge/LingCloud-ModICT-brightgreen" height="18px" alt="ModICT">
   <a href="https://scholar.google.com/citations?user=U98QY0QAAAAJ&hl=en"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="18px"> </a>
   <a href="https://twitter.com/LyxTg"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="18px" alt="Yunxin Li">
-</p> 
+  <a href="https://arxiv.org/abs/2402.13587"> <img src="https://img.shields.io/badge/Arxiv-2402.13587-b31b1b.svg?logo=arXiv" height="18px" alt="Paper">
+</h5> 
 
 If you have any questions, please feel free to contact me by e-mail: liyunxin987@163.com, Twitter: [@LyxTg](https://twitter.com/LyxTg).
 
