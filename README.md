@@ -1,5 +1,5 @@
 
-<p align="center"> <a href="https://arxiv.org/abs/2402.13587">A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation</a></p>
+<h2 align="center"> <a href="https://arxiv.org/abs/2402.13587">A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation</a></h2>
 
 <p align="center"> 
   <a href="https://github.com/HITsz-TMG/Multimodal-In-Context-Tuning"> <img src="https://img.shields.io/badge/LingCloud-ModICT-brightgreen" height="18px" alt="ModICT">
