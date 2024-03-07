@@ -1,4 +1,4 @@
-# Multimodal-In-Context-Tuning for E-Coomerce Description Generation
+# Multimodal-In-Context-Tuning for E-Commerce Description Generation
 
 Codes and Data for our LREC-COLING 2024 paper [A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation](https://arxiv.org/abs/2402.13587).
 <p> 
