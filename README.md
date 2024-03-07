@@ -17,7 +17,7 @@ If you have any questions, please feel free to contact me by e-mail: liyunxin987
 
 3) We conduct extensive experiments on our newly built three-category product datasets. The experimental results indicate that the proposed method achieves state-of-the-art performance on a wide range of evaluation metrics. Using the proposed multimodal in-context tuning technical, small models also achieve competitive performance compared to LLMs.
 
-## Our training approach: ModICT
+## Our Training Approach: ModICT
 
 The overall workflow of ModICT. The left part depicts the process of in-context reference
 construction. The right parts show the efficient multimodal in-context tuning ways for the sequence-to-
@@ -29,7 +29,7 @@ sequence language model (1) and autoregressive language model (2). Blocks with r
 
 
 
-## Our Collected Data: MD2T
+## Our Proposed Dataset: MD2T
 MD2T is a new setting for multimodal E-commerce Description generation based on structured keywords and images.
 
 # MD2T Dataset Statistics
@@ -45,7 +45,8 @@ MD2T is a new setting for multimodal E-commerce Description generation based on 
 
 **Table 1:** The detailed statistics of MD2T. Avg_N and Avg_L represent the average number and length respectively. MP and Desp indicate the marketing keywords and description.
 
-Our preprocessed data can be downloaded from https://huggingface.co/datasets/YunxinLi/MD2T.
+Our preprocessed data (Text + Images) can be downloaded from https://huggingface.co/datasets/YunxinLi/MD2T.
+
 
 
 
