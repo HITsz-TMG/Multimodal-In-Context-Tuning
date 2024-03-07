@@ -28,12 +28,10 @@ sequence language model (1) and autoregressive language model (2). Blocks with r
 ![](https://github.com/HITsz-TMG/Multimodal-In-Context-Tuning/blob/main/product_model.png)
 
 
-
-
 ## 🤗 Our Proposed Dataset: MD2T
 MD2T is a new setting for multimodal E-commerce Description generation based on structured keywords and images.
 
-# MD2T Dataset Statistics
+### MD2T Dataset Statistics
 
 | MD2T      | Cases&Bags | Clothing | Home Appliances |
 |-----------|------------|----------|-----------------|
@@ -44,7 +42,7 @@ MD2T is a new setting for multimodal E-commerce Description generation based on 
 | Avg_L #MP | 13.50      | 20.34    | 18.30           |
 | Avg_L #Desp | 80.05    | 79.03    | 80.13           |
 
-**Table 1:** The detailed statistics of MD2T. Avg_N and Avg_L represent the average number and length respectively. MP and Desp indicate the marketing keywords and description.
+**Table:** The detailed statistics of MD2T. Avg_N and Avg_L represent the average number and length respectively. MP and Desp indicate the marketing keywords and description.
 
 Our preprocessed data (Text + Images) can be downloaded from https://huggingface.co/datasets/YunxinLi/MD2T.
 
