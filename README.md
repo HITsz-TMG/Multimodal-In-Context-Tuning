@@ -57,7 +57,7 @@ If you find our paper and code useful in your research, please consider giving a
 @article{li2024multimodal,
   title={A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation},
   author={Li, Yunxin and Hu, Baotian and Luo, Wenhan and Ma, Lin and Ding, Yuxin and Zhang, Min},
-  journal={arXiv preprint arXiv:2402.13587},
+  journal={LREC-COLING 2024},
   year={2024}
 }
 ```
